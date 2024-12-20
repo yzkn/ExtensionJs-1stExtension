@@ -15,6 +15,12 @@ volta install npm@latest
 
 ## Extension.jsのインストール
 
+- .gitignore
+
+```
+node_modules
+```
+
 ```sh
 npx extension@latest create 1stext
 ```
